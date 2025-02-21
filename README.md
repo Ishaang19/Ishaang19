@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ A college student bored from the basic life <br>🔭 I'm currently working a ML Project with integration of GA<br>
+⚡ A college student bored from the basic life <br>🔭 I'm currently working on a ML Project with integration of GA<br>
 
 
 ## 🌐 Socials:
