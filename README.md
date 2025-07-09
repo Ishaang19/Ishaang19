@@ -1,6 +1,6 @@
 # 💫 About Me:
-####⚡ A college student bored from the basic life <br>
-####<img src="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo1.png" width="16" height="16" style="vertical-align:middle"/> I'm currently working as a Development Intern in Bharti Airtel.<br>
+#### ⚡ A college student bored from the basic life <br>
+#### <img src="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo1.png" width="16" height="16" style="vertical-align:middle"/> I'm currently working as a Development Intern in Bharti Airtel.<br>
 
 
 ## 🌐 Socials:
